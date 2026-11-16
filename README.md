@@ -26,6 +26,6 @@ A single-page, adaptive weather intelligence dashboard built with **React**, **V
 
 ## 👨‍💻 Author
 
-**Ahmed Ashraf** — Computer Science Student & Frontend / UI-UX Developer
+**Ahmed Ashraf** - Computer Science Student & Frontend / UI-UX Developer
 
 - Internship Track: Frontend Development @ **Progree**
