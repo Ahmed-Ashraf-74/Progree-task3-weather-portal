@@ -1,4 +1,4 @@
-# 🌦️ AetherCast — Asynchronous REST API Weather Portal
+# 🌦️ AetherCast - Asynchronous REST API Weather Portal
 
 A single-page, adaptive weather intelligence dashboard built with **React**, **Vite**, and **Tailwind CSS** as part of the **Progree Remote Internship Program (Task 3)**.
 
