@@ -2,7 +2,7 @@
 
 A single-page, adaptive weather intelligence dashboard built with **React**, **Vite**, and **Tailwind CSS** as part of the **Progree Remote Internship Program (Task 3)**.
 
-🔗 **Live Demo:** [View Live Portal](https://YOUR_DEPLOYMENT_LINK_HERE)
+🔗 **Live Demo:** [View Live Portal](https://progree-task3-weather-portal.vercel.app/)
 
 ---
 
